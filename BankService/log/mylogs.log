@@ -1,0 +1,2 @@
+[INFO ] 15-09-2024 11:02:25.456 pm [http-nio-8050-exec-2]  com.cg.service.BankServiceImpl - Bank account created successfully
+[INFO ] 15-09-2024 11:09:23.771 pm [http-nio-8050-exec-1]  com.cg.service.BankServiceImpl - Bank account created successfully
